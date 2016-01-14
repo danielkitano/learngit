@@ -32,3 +32,17 @@ af2b136ed0b3d68b942f300133b828b656aff7e3 Add README.md.
 2dda94ed915540049647e4e06d051a7cfa7f8f48 Append GPL
 baf5b565b7c0b0f810599a735b047b80f81b6798 Add file1 and file2.
 7a112d0111ef1a8de9c31730a3ad8c536ca50be7 Wrote a readme.txt file.
+
+使用分支：
+查看分支：git branch
+创建分支：git branch <name>
+切换分支：git checkout <name>
+创建+切换分支：git checkout -b <name>
+合并某分支到当前分支：git merge <name>
+删除分支：git branch -d <name>
+举例：
+git checkout -b dev #等同于以下2条命令
+git branch dev
+git checkout dev
+
+
