@@ -15,3 +15,10 @@ git push -u origin master
 ## 要关联一个远程库，使用命令git remote add origin git@server-name:path/repo-name.git；
 ## 关联后，使用命令git push -u origin master第一次推送master分支的所有内容；
 ## 此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改；`
+
+使用 ‘cache’ 认证助手包来缓存认证信息，运行下面的命令来启用凭据缓存，启用后每次输入密码将保存一小时（3600秒）
+git config --global  credential.helper  'cache --timeout 3600'
+
+查看 ‘cache’ 认证助手的所有配置:
+git helpcredential-cache
+
