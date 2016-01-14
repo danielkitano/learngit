@@ -1,0 +1,48 @@
+## create a new repository on the command line
+echo "# learngit" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/danielkitano/learngit.git
+git push -u origin master
+
+
+## …or push an existing repository from the command line
+git remote add origin https://github.com/danielkitano/learngit.git
+git push -u origin master
+
+
+## 要关联一个远程库，使用命令git remote add origin git@server-name:path/repo-name.git；
+## 关联后，使用命令git push -u origin master第一次推送master分支的所有内容；
+## 此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改；`
+
+使用 ‘cache’ 认证助手包来缓存认证信息，运行下面的命令来启用凭据缓存，启用后每次输入密码将保存一小时（3600秒）
+git config --global  credential.helper  'cache --timeout 3600'
+
+查看 ‘cache’ 认证助手的所有配置:
+git helpcredential-cache
+
+# git log --pretty=oneline
+acb8381f349ee221d9c6173f995f107e92ec46e0 null
+2f9ef4a766937cddf48c6b9fd90455c1c22d953d update 2 git_tips and readme.txt.
+8468e68b77132e215deb221377b421f4982c1301 Add git_tips doc.
+af2b136ed0b3d68b942f300133b828b656aff7e3 Add README.md.
+7cdcc3a2163d89750ab2b5db7a5f98750ecb25ee 2nd modification.
+811f72b0f53e3040728b4b55ee53f6745a7cc78e understand how Stage works.
+2dda94ed915540049647e4e06d051a7cfa7f8f48 Append GPL
+baf5b565b7c0b0f810599a735b047b80f81b6798 Add file1 and file2.
+7a112d0111ef1a8de9c31730a3ad8c536ca50be7 Wrote a readme.txt file.
+
+使用分支：
+查看分支：git branch
+创建分支：git branch <name>
+切换分支：git checkout <name>
+创建+切换分支：git checkout -b <name>
+合并某分支到当前分支：git merge <name>
+删除分支：git branch -d <name>
+举例：
+git checkout -b dev #等同于以下2条命令
+git branch dev
+git checkout dev
+
+2016.01.14
