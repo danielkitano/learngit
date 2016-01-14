@@ -1,4 +1,114 @@
-file1
-readme.txt
-tips
-test dev
+commit fe1b1e73041e06d36e3154a843ef57c0f569accc
+Merge: 1fe99d9 d1a6e39
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Thu Jan 14 16:12:28 2016 +0800
+
+    and simple.
+
+commit 1fe99d9c10cd93dda6afc98b2b7dd6ecce356239
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Thu Jan 14 16:10:26 2016 +0800
+
+    & simple
+
+commit d1a6e395099aff23800b11073a5bd39c3e4c5f4b
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Thu Jan 14 16:09:17 2016 +0800
+
+    null
+
+commit 48135b5a85bf39c97c9cc0d36497d59badd36fde
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Thu Jan 14 16:07:08 2016 +0800
+
+    null
+
+commit 20ab6bb9edd2256950a9704788255251c8f71028
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Thu Jan 14 15:56:39 2016 +0800
+
+    udpate file*
+
+commit 51be73f005b84483459827bc90da557da083097e
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Thu Jan 14 15:43:32 2016 +0800
+
+    delete git_tips
+
+commit 9ce3b478a32a5f83374f3ee0b4a2680cfa1bd07e
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Thu Jan 14 15:34:39 2016 +0800
+
+    add tips
+
+commit 4e3c758322c3fab336d6c0be8f49ccab82a4c7fb
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Thu Jan 14 15:32:29 2016 +0800
+
+    null
+
+commit 0527dbb45de1c07c45a1cb6195c3b33aad3a49bb
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Thu Jan 14 15:24:47 2016 +0800
+
+    use dev branch to update readme.txt
+
+commit b19af9545c26ad196e7729cba4852c6ea25f77c1
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Thu Jan 14 15:22:22 2016 +0800
+
+    update git_tips with git log CMD.
+
+commit acb8381f349ee221d9c6173f995f107e92ec46e0
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Thu Jan 14 15:19:12 2016 +0800
+
+    null
+
+commit 2f9ef4a766937cddf48c6b9fd90455c1c22d953d
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Thu Jan 14 15:15:29 2016 +0800
+
+    update 2 git_tips and readme.txt.
+
+commit 8468e68b77132e215deb221377b421f4982c1301
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Thu Jan 14 14:50:00 2016 +0800
+
+    Add git_tips doc.
+
+commit af2b136ed0b3d68b942f300133b828b656aff7e3
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Thu Jan 14 14:43:27 2016 +0800
+
+    Add README.md.
+
+commit 7cdcc3a2163d89750ab2b5db7a5f98750ecb25ee
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Wed Jan 13 17:43:31 2016 +0800
+
+    2nd modification.
+
+commit 811f72b0f53e3040728b4b55ee53f6745a7cc78e
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Wed Jan 13 17:41:13 2016 +0800
+
+    understand how Stage works.
+
+commit 2dda94ed915540049647e4e06d051a7cfa7f8f48
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Wed Jan 13 17:31:21 2016 +0800
+
+    Append GPL
+
+commit baf5b565b7c0b0f810599a735b047b80f81b6798
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Wed Jan 13 17:28:45 2016 +0800
+
+    Add file1 and file2.
+
+commit 7a112d0111ef1a8de9c31730a3ad8c536ca50be7
+Author: Daniel Zhang <danielkitano@qq.com>
+Date:   Wed Jan 13 17:27:56 2016 +0800
+
+    Wrote a readme.txt file.
